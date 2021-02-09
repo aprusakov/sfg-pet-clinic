@@ -16,7 +16,7 @@
 
     <groupId>com.spring</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>sfg-pet-clinic</name>
     <description>SFG Pet Clinic</description>
     <packaging>pom</packaging>
@@ -51,7 +51,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:localhost</developerConnection>
+        <developerConnection>scm:git:https://github.com/aprusakov/sfg-pet-clinic.git</developerConnection>
       <tag>pet-clinic-0.0.1</tag>
   </scm>
 
